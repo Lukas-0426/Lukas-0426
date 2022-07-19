@@ -1,5 +1,5 @@
 - Hi, I’m Lukas Jones, currently a Undergraduate student in computer sciecne at Penn State 
--Im currently intrested in JS and trying to learn front end devlopment skills 
+-Im currently intrested in full stack development and expanding my skills in project developemnet and general programming
 -my email for any inquries is LQJ5169@psu.edu 
 
 <!---
