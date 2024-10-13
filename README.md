@@ -1,6 +1,4 @@
-- Hi, I’m Lukas Jones, currently a Undergraduate student in computer sciecne at Penn State 
--Im currently intrested in full stack development and expanding my skills in project developemnet and general programming
--my email for any inquries is LQJ5169@psu.edu 
+- Hi, I’m Lukas Jones, currently a jr software developer at NGC, and trying to figure out what personal projects to work on!
 
 <!---
 Lukas-0426/Lukas-0426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
